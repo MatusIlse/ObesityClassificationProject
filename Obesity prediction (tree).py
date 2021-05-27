@@ -1,3 +1,4 @@
+#There are commented print instruction in each step in case you can to check the changes as they happen
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
